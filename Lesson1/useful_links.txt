@@ -6,3 +6,4 @@ Github - https://github.com/tishyk/python_basics
 Python Introduction and Installation Guide - https://linuxconfig.org/python-introduction-and-installation-guide
 How to change from default to alternative Python version on Debian Linux - https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux
 Python Files and the Interpreter - https://linuxconfig.org/python-files-and-the-interpreter
+Installing Python Modules - https://docs.python.org/3.7/installing/index.html
