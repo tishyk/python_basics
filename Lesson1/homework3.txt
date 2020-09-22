@@ -2,15 +2,15 @@
 Проверить доступность Python из консоли (терминала) выполнив команду: python -V
 Установить PyCharm
 Создать в PyCharm новый проект. Добавить новый python файл к проекту.
-Набрать и выполнить программу в Pycharm (устранить все возможные ошибки):
+Набрать и выполнить программу в Pycharm (устранить все возможные ошибки)
+Запустить созданное приложение с консоли (screenshot консоли добавить как решение этого дз).
 
 ###############################################
 import requests
 import argparse
 
-parser = argparse.ArgumentParser()
-parser.add_argument("first", help='First Name')
-parser.add_argument("last", help='Last Name')
+parser = argparse.ArgumentParser();
+parser.add_argument("first", help='First Name') parser.add_argument("last", help='Last Name')
 parser.add_argument("-p", "--pay", default=1000, dest='EPAY', metavar='PAY', type=int, help='Payment')
 parser.add_argument("--secret", help=argparse.SUPPRESS)
 
@@ -37,11 +37,11 @@ class Employee:
 
     @property
     def email(self):
-        return '{}.{}@email.com'.format(self.first, self.last)
+         return '{}.{}@email.com'.format(self.first, self.last)
 
-    @property
+   @property
     def fullname(self):
-        return '{} {}'.format(self.first, self.last)
+         return '{} {}'.format(self.first, self.last)
 
     def apply_raise(self):
         self.pay = int(self.pay * self.raise_amt)
@@ -51,7 +51,7 @@ class Employee:
         if response.ok:
             return response.text
         else:
-            return 'Bad Response!'
+             return 'Bad Response!'
 
 
 if __name__ == "__main__":
@@ -59,7 +59,3 @@ if __name__ == "__main__":
     emp = Employee(first, last, pay)
     
 ###############################################    
-
-Создать новый бранч в директории с проектом и именем: homework_lastname_firstname
-Добавить файл с домашним заданием в новый бранч и в дальнейшем выполнять все задания в нем.
-
