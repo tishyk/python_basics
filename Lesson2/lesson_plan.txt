@@ -1,0 +1,16 @@
+Python Syntax
+Python Indentation
+Python Variables in nutshell
+Python Comments
+Creating Variables
+Variable Names
+Assign Value to Multiple Variables
+Output Variables with print or other instructions
+Global Variables in nutshell
+Python Data Types:
+  Built-in Data Types
+  Getting the Data Type
+  Setting the Data Type
+Python Casting. Specify a Variable Type
+Git
+*Three numeric types in Python: int, float, complex
