@@ -1,16 +1,117 @@
+
+Содержание занятия:
+
+
+
+Название пройденых тем не переведено специально и приведено в соответствии с тем, как об этом спрашивают на собеседованиях и на технических собраниях.
+
+
+
 Python Syntax
+
 Python Indentation
+
 Python Variables in nutshell
+
 Python Comments
+
 Creating Variables/objects
+
 Variable Names
+
 Assign Value to Multiple Variables
+
 Output Variables with print or other instructions
-Global Variables in nutshell
+
+
+
 Python Data Types:
-  Built-in Data Types
-  Getting the Data Type
-  Setting the Data Type
+
+
+
+ Built-in Data Types
+ Getting the Data Type
+ Setting the Data Type
 Python Casting. Specify a Variable Type
-Git
-*Three numeric types in Python: int, float, complex
+
+
+
+Introduction to GIT
+
+
+
+Что такое GIT?
+Для чего используется GIT?
+Основные командиы в GIT
+Branches
+GIT log и просмотр созданных версий файлов
+Checkout для просмотра конкретной версии файлов
+
+
+
+
+Обязательные ссылки:
+
+
+
+Python
+
+Переменные и запрос пользовательского ввода
+
+Синтаксис и отступы
+
+Типы переменных
+
+
+
+
+
+GIT
+
+Типы данных(объектов) в Python
+
+Правила наименования переменных и файлов
+
+Установка GIT
+
+Настройка GIT
+
+Введение - Основы Git
+
+
+
+
+
+Дополнительные материалы:
+
+Шпаргалка с git командами
+
+Официальная книга по работе с git где можно найти все и устранить все возможные ошибки
+
+Визуализация работы git и его команд
+
+
+
+
+
+Интерфейс командной строки
+
+Kомандная оболочка Linux
+
+Абсолютная и относительная адресация. Команда cd
+
+Команда ls – просмотр каталога
+
+История команд и автодополнение
+
+Права доступа для исполняемого файла (скрипта)
+
+
+
+
+
+Материал для ознакомления к следующему занятию:
+
+Логические выражения и операторы
+
+Условия и проверка на соответствие
